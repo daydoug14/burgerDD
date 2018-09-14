@@ -3,4 +3,5 @@
 
 ### Overview
 
-In this assignment, you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
+Here I created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). I followed the MVC design pattern; used Node and MySQL to query and route data in the app, and Handlebars to generate the HTML.
+Simply click on a Burger to "devour" it and it will appear below in the list of devoured burgers.  Then click on "Not Devour," and it reappear move back to the original menu.
